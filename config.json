@@ -1,0 +1,6 @@
+{
+  "debug": false,
+  "threadCount": 10,
+  "iterations": 1,
+  "packetPath": "packet.json"
+}
